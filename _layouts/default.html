@@ -1,0 +1,36 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title | default: site.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+</head>
+
+<body>
+
+    <!-- Navigation Ribbon -->
+    <nav>
+        <ul>
+            <li><a href="{{ "/" | relative_url }}">Home</a></li>
+            <li><a href="{{ "/part2" | relative_url }}">Part 2</a></li>
+            <li><a href="{{ "/part3" | relative_url }}">Part 3</a></li>
+            <li><a href="{{ "/videoprototype" | relative_url }}">Video Prototype</a></li>
+        </ul>
+    </nav>
+
+    <!-- Content Section -->
+    <div class="content">
+        {{ content }}
+    </div>
+
+    <!-- Team Contribution Statement -->
+    <div class="contribution-statement">
+        <h2>Team Contribution Statement</h2>
+        <!-- Add your team contribution statement here -->
+        <!-- ... -->
+    </div>
+
+</body>
+
+</html>
