@@ -10,25 +10,20 @@
 <body>
 
     <!-- Navigation Ribbon -->
-    <nav>
-        <ul>
-            <li><a href="{{ "/" | relative_url }}">Home</a></li>
-            <li><a href="{{ "/part2" | relative_url }}">Part 2</a></li>
-            <li><a href="{{ "/part3" | relative_url }}">Part 3</a></li>
-            <li><a href="{{ "/videoprototype" | relative_url }}">Video Prototype</a></li>
-        </ul>
-    </nav>
+<nav>
+    <ul>
+        <li><a href="{{ "/" | relative_url }}">Home</a></li>
+        <li><a href="{{ "/part2" | relative_url }}">Part 2</a></li>
+        <li><a href="{{ "/part3" | relative_url }}">Part 3</a></li>
+        <li><a href="{{ "/videoprototype" | relative_url }}">Video Prototype</a></li>
+        <li><a href="{{ "/contribution" | relative_url }}">Contribution</a></li> <!-- Added link to contribution page -->
+    </ul>
+</nav>
+
 
     <!-- Content Section -->
     <div class="content">
         {{ content }}
-    </div>
-
-    <!-- Team Contribution Statement -->
-    <div class="contribution-statement">
-        <h2>Team Contribution Statement</h2>
-        <!-- Add your team contribution statement here -->
-        <!-- ... -->
     </div>
 
 </body>
