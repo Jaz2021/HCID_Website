@@ -21,7 +21,9 @@
 title: Grocery Hunt
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-
+domain: jaz2021.github.io
+url: https://jaz2021.github.io
+basurl: /HCID_Website/
 # Build settings
 theme: minima
 plugins:
