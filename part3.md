@@ -53,7 +53,7 @@ In Version 3, subsequent versions of the prototype underwent iterative refinemen
 
 ### Final Paper Prototype:
 
-<img src="{{site.baseurl | prepend: site.url}}assets/images/1.jpg" alt="Untitled" />
+<img src="jaz2021.github.io/HCID_Website/assets/images/1.jpg" alt="Untitled" />
 For our final version of the paper prototype we took the feedback we received from each usability test and produced an overall design that can complete selected tasks and be more user friendly on how to navigate. The main page now includes a top bar that allows the user to track where they are in the website along with a help page that explains how to use the website. User account creation and login adds familiarity to the user and provides a way for the design to remember previous purchases and save items in cart for later. 
 #####  Task 1: Finding recipe based on ingredient
 Finding a recipe based on an ingredient allows the user to use unfamiliar ingredients with a convenient recipe on our website. The main page now focuses on allowing the user to search for ingredients then the user can go to that ingredient page. From the ingredient page a recommended recipe section was added and can take the user to the full recipe. 
