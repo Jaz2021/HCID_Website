@@ -71,13 +71,13 @@ When things go wrong it can affect an individual’s meal to be delayed or ruine
 
 ### Proposed Design Sketches:
 ##### Design 1: Recipe Based Store Locator
-![Design 1](assets/images/part21.png)
+![Design 1](/assets/images/part21.png)
 
 
 This design takes the dish as the focal attention where the home page and search operation only present the dishes and its description and not the ingredients initially. The ingredients associated with the dish only show up after the dish is selected. Also, this design takes the dish as the focal attention where the home page and search operation only present the dishes and its description and not the ingredients initially. The ingredients associated with the dish only show up after the dish is selected. Also, the step-by-step recipe of the dish is also shown side-by-side with its list of ingredients. The customers can individually select each ingredient of the dish to cart, or they can add all the ingredients of that dish to the cart with a button. On the checkout page, all the ingredients are categorized into dishes that they belong to. There are also links that list the local shops that also sell them on the side. The price tab shows the total price of all ingredients, and the checkout page finalizes the total transaction. 
 ##### Design 2: Online Store
-![Design 2](assets/images/part22.png)
-![Design 2](assets/images/part23.png)
+![Design 2](/assets/images/part22.png)
+![Design 2](/assets/images/part23.png)
 
 The first page is the main page for an online store that customers are going to access. They can select Region, country, and categories at the top bar. Next it shows top selling and best recommendations on the left side and shows each ingredient on the right. It contains food details and related recipes, ingredients that work well together, and map location where the user can purchase in-person. The second page depicts the map which contains the details of stores on the left bar with distance and price. And the details page where the user can click the name of the ingredient and jump to that ingredient page. It contains the details of ingredients and comments, the recipe, ingredients that work well in the dish inside.
 
@@ -105,8 +105,8 @@ to follow.
 
 
 ##### Storyboards of the Selected Design: 
-![Storyboard 1](assets/images/part25.png)
-![Storyboard 2](assets/images/part26.png)
+![Storyboard 1](/assets/images/part25.png)
+![Storyboard 2](/assets/images/part26.png)
 
 
 ### Appendix of Feedback Sessions and User Research:
