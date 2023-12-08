@@ -53,38 +53,38 @@ In Version 3, subsequent versions of the prototype underwent iterative refinemen
 
 ### Final Paper Prototype:
 
-<img src="/assets/images/1.jpg" alt="Untitled" />
+<img src="assets/images/1.jpg" alt="Untitled" />
 For our final version of the paper prototype we took the feedback we received from each usability test and produced an overall design that can complete selected tasks and be more user friendly on how to navigate. The main page now includes a top bar that allows the user to track where they are in the website along with a help page that explains how to use the website. User account creation and login adds familiarity to the user and provides a way for the design to remember previous purchases and save items in cart for later. 
 #####  Task 1: Finding recipe based on ingredient
 Finding a recipe based on an ingredient allows the user to use unfamiliar ingredients with a convenient recipe on our website. The main page now focuses on allowing the user to search for ingredients then the user can go to that ingredient page. From the ingredient page a recommended recipe section was added and can take the user to the full recipe. 
-![Start Page]({{site.baseurl | prepend: site.url}}/assets/images/2.jpg)
-![Item Page]({{site.baseurl | prepend: site.url}}/assets/images/item_page.jpg)
-![Recipe Page]({{site.baseurl | prepend: site.url}}/assets/images/recipe_page.jpg)
+<img src="assets/images/2.jpg" alt="Start Page" />
+<img src="assets/images/item_page.jpg" alt="Item Page" />
+<img src="assets/images/recipe_page.jpg" alt="Recipe Page" />
 
 #####  Task 2: Add all ingredients from recipe to cart
 Our other task focuses on user convenience that allows the user to add the necessary ingredients for a recipe directly to their cart through one button click.. From there the user can continue their shopping experience and can check out when ready. The added top bar improves where the user can see where they are on the webpage
-<img src="assets/images/item_page.jpg" alt="Untitled" />
-<img src="{{site.baseurl | prepend: site.url}}assets/images/recipe_page.jpg" alt="Untitled" />
-<img src="{{site.baseurl | prepend: site.url}}assets/images/cart_page.jpg" alt="Untitled" />
+<img src="assets/images/item_page.jpg" alt="item_page" />
+<img src="assets/images/recipe_page.jpg" alt="recipe_page" />
+<img src="assets/images/cart_page.jpg" alt="cart_page" />
 
 ### Digital Mockup:
 For our digital mockup we decided to keep closely to our final paper prototype and improve on how we presented the webpage to the user. Added color to the design helps distinguish exactly where the user is on the webpage. Text and images are more clear with a uniform design that helps the user recognize what ingredients and recipes are being displayed. Our digital mockup is not interactive yet and is going to be a focus for our next iteration. 
 ##### Task 1: Finding recipe based on ingredient
 This task follows the same flow as the paper prototype with starting on the main page to search for an ingredient, then from the ingredient page the recommended recipes displayed in the bottom right can continue to their own page. 
 
-<img src="{{site.baseurl | prepend: site.url}}assets/images/WebRegistration.png" alt="Untitled" />
-<img src="{{site.baseurl | prepend: site.url}}assets/images/WebRecipe.png" alt="Untitled" />
-<img src="{{site.baseurl | prepend: site.url}}assets/images/cart_page.png" alt="Untitled" />
-<img src="{{site.baseurl | prepend: site.url}}assets/images/WebFruits.png" alt="Untitled" />
-<img src="{{site.baseurl | prepend: site.url}}assets/images/WebApple.png" alt="Untitled" />
-<img src="{{site.baseurl | prepend: site.url}}assets/images/WebApple.png" alt="Untitled" />
-<img src="{{site.baseurl | prepend: site.url}}assets/images/WebIngredient.png" alt="Untitled" />
-<img src="{{site.baseurl | prepend: site.url}}assets/images/WebAppleRecipe.png" alt="Untitled" />
-<img src="{{site.baseurl | prepend: site.url}}assets/images/WebAppleRecipeFull.png" alt="Untitled" />
-<img src="{{site.baseurl | prepend: site.url}}assets/images/WebMap.png" alt="Untitled" />
-<img src="{{site.baseurl | prepend: site.url}}assets/images/WebHelp.png" alt="Untitled" />
-<img src="{{site.baseurl | prepend: site.url}}assets/images/WebAccount.png" alt="Untitled" />
-<img src="{{site.baseurl | prepend: site.url}}assets/images/WebCart2.png" alt="Untitled" />
+<img src="assets/images/WebRegistration.png" alt="WebRegistration" />
+<img src="assets/images/WebRecipe.png" alt="Untitled" />
+<img src="assets/images/cart_page.png" alt="Untitled" />
+<img src="assets/images/WebFruits.png" alt="Untitled" />
+<img src="assets/images/WebApple.png" alt="Untitled" />
+<img src="assets/images/WebApple.png" alt="Untitled" />
+<img src="assets/images/WebIngredient.png" alt="Untitled" />
+<img src="assets/images/WebAppleRecipe.png" alt="Untitled" />
+<img src="assets/images/WebAppleRecipeFull.png" alt="Untitled" />
+<img src="assets/images/WebMap.png" alt="Untitled" />
+<img src="assets/images/WebHelp.png" alt="Untitled" />
+<img src="assets/images/WebAccount.png" alt="Untitled" />
+<img src="assets/images/WebCart2.png" alt="Untitled" />
 
 ##### Task 2: Add all ingredients from recipe to cart
 From the recipe page the user is shown all ingredients needed on the right side on the page. This section allows the user to add and remove each ingredient, along with an add all to cart button. The buttons for this section are a different color to show that they are usable to the user and completes the desired task. 
